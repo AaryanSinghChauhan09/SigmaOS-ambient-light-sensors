@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-ambient-light-sensors"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS ambient-light-sensors component - hardware"
+
+[lib]
+name = "ambient_light_sensors"
+path = "src/lib.rs"
