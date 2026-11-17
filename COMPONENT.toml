@@ -3,7 +3,7 @@ name = "SigmaOS-ambient-light-sensors"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ambient-light-sensors component"
+description = "Ambient Light Sensors"
 upstream = []
 
 [contract]
